@@ -4,7 +4,7 @@ The API will return a list of supported cities within Manitoba with their ID, na
 ## End points
 - City
   - Get/city 
-  - Get/city/restaurant(array)
+  - Get/city/restaurant/?q="id"
 - Time
   - Get/time (array)
 - Cuisine 
